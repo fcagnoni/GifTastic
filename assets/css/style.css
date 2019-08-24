@@ -1,0 +1,14 @@
+.body {
+
+}
+
+#gif-container {
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+
+.gif {
+  flex: 1;
+  padding: 20px;
+}
